@@ -29,10 +29,11 @@ redirect_from:
 
 -	Jiaojiao Yun, Michael F Burrow, Jukka P Matinlinna, `Hao Ding`, Sin Man Chan, James KH Tsoi, Yan Wang. Design of Multi-Functional Bio-Safe Dental Resin Composites with Mineralization and Anti-Biofilm Properties. *Journal of Functional Biomaterials*, 2024, 15(5): 120. (JCR:Q2; IF:4.8)  
 [[HTML]](https://doi.org/10.3390/jfb15050120) [[PDF]](https://www.mdpi.com/2079-4983/15/5/120/pdf?version=1714482768)
+<span class='show_paper_citations' data='pciroxQAAAAJ:4DMP91E08xMC'></span>
 
 
 - **Hao Ding**, Zeqian Pan, Yee Man Loh, Chunjin Wang, James Kit Hon Tsoi. Effects of Nano-Diamond-Coated Milling Bits on Cutting Dental Zirconia. *Coatings*, 2024, 14(4): 473. (JCR:Q2; IF:3.4)
-  [[HTML]](https://doi.org/10.3390/coatings14040473) [[PDF]](https://www.mdpi.com/2079-6412/14/4/473/pdf?version=1712929969)
+  [[HTML]](https://doi.org/10.3390/coatings14040473) [[PDF]](https://www.mdpi.com/2079-6412/14/4/473/pdf?version=1712929969)<span class='show_paper_citations' data='pciroxQAAAAJ:_kc_bZDykSQC'></span>
 
 
 
