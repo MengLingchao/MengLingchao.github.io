@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hao Ding (丁豪)"
-  avatar           : "images/portrait.png"
+  avatar           : "/images/portrait.png"
   bio              : "BEng, MSc, PhD"
-  location         : "HK"
-  employer         : "the University of Hong Kong"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pciroxQAAAAJ"
   email            : "dinghao@connect.hku.hk"
