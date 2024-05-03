@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[Dr. Hao Ding (丁豪)](https://facdent.hku.hk/about/staff-profile.php?shortname=haoding) is a postdoctoral fellow at Faculty of Dentistry, The University of Hong Kong (HKU), where he has been working since 2022. He earned his PhD in Dental Materials Science from HKU, where his research focuses on dental materials and digital dentistry. He has published more than 10 papers with a <a href='https://scholar.google.com/citations?user=pciroxQAAAAJ'> H-index <strong><span id='total_cit'>5 </span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=pciroxQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+[Dr. Hao Ding (丁豪)](https://facdent.hku.hk/about/staff-profile.php?shortname=haoding) is a postdoctoral fellow at Faculty of Dentistry, The University of Hong Kong (HKU), where he has been working since 2022. He earned his PhD in Dental Materials Science from HKU, where his research focuses on dental materials and digital dentistry. He has published more than 10 papers with a <a href='https://scholar.google.com/citations?user=pciroxQAAAAJ'> H-index of <strong><span id='total_cit'> 5 </span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=pciroxQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
