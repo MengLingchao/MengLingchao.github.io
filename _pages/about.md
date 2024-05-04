@@ -27,12 +27,13 @@ redirect_from:
 # 📝 Publications 
 
 
--	Jiaojiao Yun, Michael F Burrow, Jukka P Matinlinna, `Hao Ding`, Sin Man Chan, James KH Tsoi, Yan Wang. Design of Multi-Functional Bio-Safe Dental Resin Composites with Mineralization and Anti-Biofilm Properties. *Journal of Functional Biomaterials*, 2024, 15(5): 120. (JCR:Q2; IF:4.8) [[HTML]](https://doi.org/10.3390/jfb15050120) [[PDF]](https://www.mdpi.com/2079-4983/15/5/120/pdf?version=1714482768) <span class='show_paper_citations' data='pciroxQAAAAJ:KlAtU1dfN6UC'></span>
+-	Jiaojiao Yun, Michael F Burrow, Jukka P Matinlinna, `Hao Ding`, Sin Man Chan, James KH Tsoi, Yan Wang. Design of Multi-Functional Bio-Safe Dental Resin Composites with Mineralization and Anti-Biofilm Properties. *Journal of Functional Biomaterials*, 2024, 15(5): 120. (JCR:Q2; IF:4.8) [[HTML]](https://doi.org/10.3390/jfb15050120) [[PDF]](https://www.mdpi.com/2079-4983/15/5/120/pdf?version=1714482768)
 
 
 - **Hao Ding**, Zeqian Pan, Yee Man Loh, Chunjin Wang, James Kit Hon Tsoi. Effects of Nano-Diamond-Coated Milling Bits on Cutting Dental Zirconia. *Coatings*, 2024, 14(4): 473. (JCR:Q2; IF:3.4) [[HTML]](https://doi.org/10.3390/coatings14040473) [[PDF]](https://www.mdpi.com/2079-6412/14/4/473/pdf?version=1712929969)
 <span class='show_paper_citations' data='pciroxQAAAAJ:_kc_bZDykSQC'></span>
 
+- Yunzhen Yang, **Hao Ding**, Aifang Han, Xuedong Bai, Mohammed Nadeem Bijle, Jukka Pekka Matinlinna, James Kit-Hon Tsoi. *Porphyromonas gingivalis* can degrade dental zirconia. *Dental Materials*, 2023, 39(12): 1105-1112. (JCR:Q1; IF:5.0) [[HTML]](https://doi.org/10.1016/j.dental.2023.10.004)
 
 
 # 🎖 Honors and Awards
