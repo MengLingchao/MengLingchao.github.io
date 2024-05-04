@@ -32,20 +32,24 @@ redirect_from:
 
 
 12.	Jiaojiao Yun, Michael F. Burrow, Jukka P. Matinlinna, **Hao Ding**, Rosalind S.M. Chan, James K.H. Tsoi, Yan Wang. Design of Multi-Functional Bio-Safe Dental Resin Composites with Mineralization and Anti-Biofilm Properties. *Journal of Functional Biomaterials*, 2024, 15(5): 120. (JCR:Q2; IF:4.8)
-<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/jfb15050120">[[HTML]](https://doi.org/10.3390/jfb15050120) [[PDF]](https://www.mdpi.com/2079-4983/15/5/120/pdf?version=1714482768)
+<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/jfb15050120">
+[[HTML]](https://doi.org/10.3390/jfb15050120) [[PDF]](https://www.mdpi.com/2079-4983/15/5/120/pdf?version=1714482768)
 
 
 11. **Hao Ding**, Zeqian Pan, Yee-Man Loh, Chunjin Wang, James K.H. Tsoi. Effects of Nano-Diamond-Coated Milling Bits on Cutting Dental Zirconia. *Coatings*, 2024, 14(4): 473. (JCR:Q2; IF:3.4)
-<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/coatings14040473">[[HTML]](https://doi.org/10.3390/coatings14040473) [[PDF]](https://www.mdpi.com/2079-6412/14/4/473/pdf?version=1712929969)
+<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/coatings14040473">
+[[HTML]](https://doi.org/10.3390/coatings14040473) [[PDF]](https://www.mdpi.com/2079-6412/14/4/473/pdf?version=1712929969)
 <span class='show_paper_citations' data='pciroxQAAAAJ:_kc_bZDykSQC'></span>
 
 
 10. Yunzhen Yang, **Hao Ding**, Aifang Han, Xuedong Bai, Mohammed N. Bijle, Jukka P. Matinlinna, James K.H. Tsoi. *Porphyromonas gingivalis* Can Degrade Dental Zirconia. *Dental Materials*, 2023, 39(12): 1105-1112. (JCR:Q1; IF:5.0)
-<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.dental.2023.10.004">[[HTML]](https://doi.org/10.1016/j.dental.2023.10.004)
+<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.dental.2023.10.004">
+[[HTML]](https://doi.org/10.1016/j.dental.2023.10.004)
 
 
 9. **Hao Ding**, Meng Zhang, Brian Lo, Karfield K.F. Chan, Edward C.M. Lo, James K.H. Tsoi. A Personalised 3D-Printed Dental Plaque Removal Mouthguard for Older Adults. *International Dental Journal*, 2023, 73(6): 828-833. (JCR:Q2; IF:3.3)
-<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.identj.2023.04.005">[[HTML]](https://doi.org/10.1016/j.identj.2023.04.005) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020653923000722/pdfft?md5=85b8ecf07a47c928d5c183e2b8045595&pid=1-s2.0-S0020653923000722-main.pdf)
+<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.identj.2023.04.005">
+[[HTML]](https://doi.org/10.1016/j.identj.2023.04.005) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020653923000722/pdfft?md5=85b8ecf07a47c928d5c183e2b8045595&pid=1-s2.0-S0020653923000722-main.pdf)
 
 
 8. **Hao Ding**, Zhiming Cui, Ebrahim Maghami, Yanning Chen, Jukka P. Matinlinna, Edmond H.N. Pow, Alex S.L. Fok, Michael F. Burrow, Wenping Wang, James K.H. Tsoi. Morphology and Mechanical Performance of Dental Crown Designed by 3D-DCGAN. *Dental Materials*, 2023, 39(4): 320-332. (JCR:Q1; IF:5.0)
