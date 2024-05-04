@@ -21,8 +21,7 @@ redirect_from:
 
 <!-- He has published more than 10 papers with a <a href='https://scholar.google.com/citations?user=pciroxQAAAAJ'> H-index of <strong><span id='total_cit'> 5
 </span></strong></a>.
-
- <a href='https://scholar.google.com/citations?user=pciroxQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  --!>
+<a href='https://scholar.google.com/citations?user=pciroxQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> -->
 
 
 # 🔥 News
