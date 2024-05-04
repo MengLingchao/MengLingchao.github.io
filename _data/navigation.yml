@@ -6,14 +6,23 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Blog"
+    url: "/#-blog"
+
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Working Experience"
+    url: "/#-working-experience"
+
+  - title: "Educations"
+    url: "/#-educations"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "In the Press"
+    url: "/#-in-the-press"
 
  # - title: "Invited Talks"
  #   url: "/#-invited-talks"
