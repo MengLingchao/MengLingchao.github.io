@@ -43,12 +43,13 @@ redirect_from:
 - **Hao Ding**, Meng Zhang, Brian Lo, Karfield K.F. Chan, Edward C.M. Lo, James K.H. Tsoi. A Personalised 3D-Printed Dental Plaque Removal Mouthguard for Older Adults. *International Dental Journal*, 2023, 73(6): 828-833. (JCR:Q2; IF:3.3) [[HTML]](https://doi.org/10.1016/j.identj.2023.04.005) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020653923000722/pdfft?md5=85b8ecf07a47c928d5c183e2b8045595&pid=1-s2.0-S0020653923000722-main.pdf)
 
 
-- **Hao Ding**, Zhiming Cui, Ebrahim Maghami, Yanning Chen, Jukka P. Matinlinna, Edmond H.N. Pow, Alex S.L. Fok, Michael F. Burrow, Wenping Wang, James K.H. Tsoi. Morphology and mechanical performance of dental crown designed by 3D-DCGAN. *Dental Materials*, 2023, 39(4): 320-332. (JCR:Q1; IF:5.0) [[HTML]](https://doi.org/10.1016/j.dental.2023.02.001) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0109564123000416/pdfft?md5=2f702e181681eb353fab229989a81ac7&pid=1-s2.0-S0109564123000416-main.pdf)
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.dental.2023.02.001)]
+- **Hao Ding**, Zhiming Cui, Ebrahim Maghami, Yanning Chen, Jukka P. Matinlinna, Edmond H.N. Pow, Alex S.L. Fok, Michael F. Burrow, Wenping Wang, James K.H. Tsoi. Morphology and mechanical performance of dental crown designed by 3D-DCGAN. *Dental Materials*, 2023, 39(4): 320-332. (JCR:Q1; IF:5.0)
+<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.dental.2023.02.001">
+[[HTML]](https://doi.org/10.1016/j.dental.2023.02.001) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0109564123000416/pdfft?md5=2f702e181681eb353fab229989a81ac7&pid=1-s2.0-S0109564123000416-main.pdf)
 
 
 - **Hao Ding**, Jiamin Wu, Wuyuan Zhao, Jukka P. Matinlinna, Michael F. Burrow, James K.H. Tsoi. Artificial intelligence in dentistry—A review. *Frontiers in Dental Medicine*, 2023, 4: 1085251.
-<a <img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.3389/fdmed.2023.1085251"></a>
+<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.3389/fdmed.2023.1085251">
 [[HTML]](https://doi.org/10.3389/fdmed.2023.1085251) [[PDF]](https://www.frontiersin.org/articles/10.3389/fdmed.2023.1085251/pdf?isPublishedV2=False)
 
 
