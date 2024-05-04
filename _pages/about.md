@@ -47,7 +47,9 @@ redirect_from:
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.dental.2023.02.001)](https://juleskreuer.eu/citation-badge/)
 
 
-- **Hao Ding**, Jiamin Wu, Wuyuan Zhao, Jukka P. Matinlinna, Michael F. Burrow, James K.H. Tsoi. Artificial intelligence in dentistry—A review. *Frontiers in Dental Medicine*, 2023, 4: 1085251. [[HTML]](https://doi.org/10.3389/fdmed.2023.1085251) [[PDF]](https://www.frontiersin.org/articles/10.3389/fdmed.2023.1085251/pdf?isPublishedV2=False)
+- **Hao Ding**, Jiamin Wu, Wuyuan Zhao, Jukka P. Matinlinna, Michael F. Burrow, James K.H. Tsoi. Artificial intelligence in dentistry—A review. *Frontiers in Dental Medicine*, 2023, 4: 1085251.
+<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.3389/fdmed.2023.1085251"></a>
+[[HTML]](https://doi.org/10.3389/fdmed.2023.1085251) [[PDF]](https://www.frontiersin.org/articles/10.3389/fdmed.2023.1085251/pdf?isPublishedV2=False)
 
 
 # 🎖 Honors and Awards
