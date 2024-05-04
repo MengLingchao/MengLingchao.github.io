@@ -33,7 +33,11 @@ redirect_from:
 - **Hao Ding**, Zeqian Pan, Yee Man Loh, Chunjin Wang, James Kit Hon Tsoi. Effects of Nano-Diamond-Coated Milling Bits on Cutting Dental Zirconia. *Coatings*, 2024, 14(4): 473. (JCR:Q2; IF:3.4) [[HTML]](https://doi.org/10.3390/coatings14040473) [[PDF]](https://www.mdpi.com/2079-6412/14/4/473/pdf?version=1712929969)
 <span class='show_paper_citations' data='pciroxQAAAAJ:_kc_bZDykSQC'></span>
 
+
 - Yunzhen Yang, **Hao Ding**, Aifang Han, Xuedong Bai, Mohammed Nadeem Bijle, Jukka Pekka Matinlinna, James Kit-Hon Tsoi. *Porphyromonas gingivalis* can degrade dental zirconia. *Dental Materials*, 2023, 39(12): 1105-1112. (JCR:Q1; IF:5.0) [[HTML]](https://doi.org/10.1016/j.dental.2023.10.004)
+
+
+- **Hao Ding**, Meng Zhang, Brian Lo, Karfield K.F. Chan, Edward C.M. Lo, James K.H. Tsoi. A Personalised 3D-Printed Dental Plaque Removal Mouthguard for Older Adults. *International Dental Journal*, 2023, 73(6): 828-833. (JCR:Q2; IF:3.3) [ [HTML] ](https://doi.org/10.1016/j.identj.2023.04.005) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020653923000722/pdfft?md5=85b8ecf07a47c928d5c183e2b8045595&pid=1-s2.0-S0020653923000722-main.pdf)
 
 
 # 🎖 Honors and Awards
