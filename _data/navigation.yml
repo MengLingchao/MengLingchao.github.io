@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Working Experience"
-    url: "/#-working-experience"
+ # - title: "Working Experience"
+ #   url: "/#-working-experience"
 
   - title: "Educations"
     url: "/#-educations"
@@ -21,8 +21,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "In the Press"
-    url: "/#-in-the-press"
+ # - title: "In the Press"
+ #   url: "/#-in-the-press"
 
  # - title: "Invited Talks"
  #   url: "/#-invited-talks"
