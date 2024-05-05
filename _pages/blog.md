@@ -5,3 +5,6 @@ title: "Blog"
 excerpt: ""
 author_profile: true
 ---
+
+<span class='anchor' id='blog'></span>
+
