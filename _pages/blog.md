@@ -1,9 +1,10 @@
 ---
-layout: archive
-title: "Blog"
+layout: compress
 permalink: /blog/
+title: "Blog"
+excerpt: ""
 author_profile: true
-redirect_from:
-  - /about/
-  - about.html
+redirect_from: 
+  - /blog/
+  - /blog.html
 ---
