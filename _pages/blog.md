@@ -1,5 +1,4 @@
 ---
-layout: compress
 permalink: /blog/
 title: "Blog"
 excerpt: ""
