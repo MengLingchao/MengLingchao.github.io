@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
- # - title: "Blog"
- #   url: "/year-archive/"
+  - title: "Blog"
+    url: "/year-archive/"
 
   - title: "Publications"
     url: "/#-publications"
