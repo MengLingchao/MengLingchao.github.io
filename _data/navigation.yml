@@ -7,19 +7,22 @@ main:
     url: "/#-news"
 
   - title: "Blog"
-    url: "/year-archive/"
+    url: "/blog/"
+    
+  - title: "CV"
+    url: "/CV/"
 
-  - title: "Publications"
-    url: "/#-publications"
+ # - title: "Publications"
+ #   url: "/#-publications"
 
  # - title: "Working Experience"
  #   url: "/#-working-experience"
 
-  - title: "Educations"
-    url: "/#-educations"
+ # - title: "Educations"
+ #   url: "/#-educations"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+ # - title: "Honors and Awards"
+ #   url: "/#-honors-and-awards"
 
  # - title: "In the Press"
  #   url: "/#-in-the-press"
