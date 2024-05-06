@@ -17,6 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+{% include_relative includes/intro.md %}
+
+{% include_relative includes/news.md %}
+
+{% include_relative includes/publication.md %}
+
+{% include_relative includes/working.md %}
+
+{% include_relative includes/education.md %}
+
+{% include_relative includes/honor.md %}
+
+{% include_relative includes/press.md %}
+
+{% include_relative includes/service.md %}
+
 [Dr. Hao Ding (丁豪)](https://facdent.hku.hk/about/staff-profile.php?shortname=haoding) is a postdoctoral fellow at Faculty of Dentistry, The University of Hong Kong (HKU), where he has been working since 2022. He earned his PhD in Dental Materials Science from HKU, where his research focuses on dental materials and digital dentistry.
 
 <!-- He has published more than 10 papers with a <a href='https://scholar.google.com/citations?user=pciroxQAAAAJ'> H-index of <strong><span id='total_cit'> 5
