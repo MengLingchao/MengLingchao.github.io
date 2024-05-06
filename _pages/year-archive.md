@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 permalink: /year-archive/
 title: "Blog"
 excerpt: ""
