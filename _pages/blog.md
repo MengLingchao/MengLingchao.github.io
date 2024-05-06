@@ -1,6 +1,6 @@
 ---
 layout: compress
-permalink: /blog/
+permalink: /year-archive/
 title: "Blog"
 excerpt: ""
 author_profile: true
