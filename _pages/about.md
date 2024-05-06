@@ -21,7 +21,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.05.06*: &nbsp;🎉🎉 My website is officially launched.
+- *2024.05.06*: My website is officially launched. 🎉🎉
 - *2024.02.07*: I was invited as a guest editor for *Frontiers in Dental Medicine* for the research topic **[Generative AI in Dentistry: Innovations and Applications](https://www.frontiersin.org/research-topics/61620/generative-ai-in-dentistry-innovations-and-applications/overview)**. Welcome to submit your work!
  
 
