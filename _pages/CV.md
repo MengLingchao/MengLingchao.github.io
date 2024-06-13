@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-*Download a [[PDF]](/files/CV_Ding Hao_20240503.pdf) version of my CV.*
+*Download a [[PDF]](/files/CV_Ding Hao_20240613.pdf) version of my CV.*
 
 # 📖 Educations
 - *Nov. 2017 - Mar. 2022*, Ph.D in Dental Materials Science, Faculty of Dentistry, The University of Hong Kong
