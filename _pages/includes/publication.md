@@ -1,4 +1,8 @@
 # 📝 Publications 
+13. Xiaotian Liu, Bryan C.L. Lau, **Hao Ding**, Jukka P. Matinlinna, James K.H. Tsoi. Enamel Remineralisation with a Novel Sodium Fluoride-Infused Bristle Toothbrush. *Dentistry Journal*, 2024, 12(5): 142. (JCR: Q2; IF:2.6)
+<img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/dj12050142">
+[[HTML]](https://www.mdpi.com/2304-6767/12/5/142) [[PDF]](https://www.mdpi.com/2304-6767/12/5/142/pdf?version=1715756924)
+
 12.	Jiaojiao Yun, Michael F. Burrow, Jukka P. Matinlinna, **Hao Ding**, Rosalind S.M. Chan, James K.H. Tsoi, Yan Wang. Design of Multi-Functional Bio-Safe Dental Resin Composites with Mineralization and Anti-Biofilm Properties. *Journal of Functional Biomaterials*, 2024, 15(5): 120. (JCR:Q2; IF:4.8)
 <img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/jfb15050120">
 [[HTML]](https://doi.org/10.3390/jfb15050120) [[PDF]](https://www.mdpi.com/2079-4983/15/5/120/pdf?version=1714482768)
