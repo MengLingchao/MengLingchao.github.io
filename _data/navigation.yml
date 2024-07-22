@@ -5,11 +5,10 @@ main:
 
 
 
-  - title: "Blog"
-    url: "/blog/"
+  - title: "Publications"
+    url: "/publications/"
     
-  - title: "CV"
-    url: "/cv/"
+
 
  # - title: "Publications"
  #   url: "/#-publications"
