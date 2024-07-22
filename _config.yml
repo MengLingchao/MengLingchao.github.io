@@ -6,31 +6,31 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hao Ding"
-description              : "A Scientist is always fine."
-repository               : "HoraceTing/HoraceTing.github.io"
+title                    : "Lingchao Meng"
+description              : "Finance Assistant Professor"
+repository               : "MengLingchao/MengLingchao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification : Tlq0Eyknu8n3Kn0np5Wit85uwH5r_w5TS66v3FLSXFk
-bing_site_verification   : 7be84374287db74363181b3e3b152e20
-baidu_site_verification  : codeva-8ggGMCnrab
+google_site_verification : #Tlq0Eyknu8n3Kn0np5Wit85uwH5r_w5TS66v3FLSXFk
+bing_site_verification   : #7be84374287db74363181b3e3b152e20
+baidu_site_verification  : #codeva-8ggGMCnrab
 
 # Site Author
 author:
-  name             : "Hao Ding (丁豪)"
+  name             : "Lingchao Meng"
   avatar           : "/images/portrait.png"
-  bio              : "BEng, MSc, PhD"
+  bio              : "China School of Banking and Finance, University of International Business and Economics"
   location         : 
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=pciroxQAAAAJ"
-  email            : "dinghao@connect.hku.hk"
-  researchgate     : "https://www.researchgate.net/profile/Hao_Ding20"
-  uri              : "https://facdent.hku.hk/about/staff-profile.php?shortname=haoding"
+  googlescholar    : "https://scholar.google.com/citations?user=MakPpFAAAAAJ&hl=en"
+  email            : "lingchao.fin@gmail.com"
+  researchgate     : 
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hao-ding-0a6029b8"
+  linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-5765-0862"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
