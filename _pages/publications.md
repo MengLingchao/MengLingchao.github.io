@@ -41,7 +41,7 @@ author_profile: true
 ## English 
 ---
 1. **Anomalies in the Age of Machine**, with [Fuwei Jiang](https://fuweijiang.weebly.com/), [Yiming Wang](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjrxx/327542.htm), [Guofu Zhou](https://apps.olin.wustl.edu/faculty/zhou/)
-2. **Measuring Real-time Economic Condition with Economic Narratives**
+2. **Measuring Real-time Economic Condition with Economic Narratives**, with [Fuwei Jiang](https://fuweijiang.weebly.com/), [Kunpeng Li](https://isem.cueb.edu.cn/szdw/xyjs/90106.htm), Bowen Xue
 3. **Factor Timing with Economic Narratives**, with [Fuwei Jiang](https://fuweijiang.weebly.com/), Yanan Fu, [Jun Tu](http://www.mysmu.edu/faculty/tujun/default.html)
 4. **Financial Regulator Communication and Financial Stability**, with [Fuwei Jiang](https://fuweijiang.weebly.com/), Yumin Liu
 
