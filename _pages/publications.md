@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Research"
 excerpt: ""
 author_profile: true
 ---
@@ -33,3 +33,19 @@ author_profile: true
 
 5. **媒体文本情绪与股票回报预测**. <span style="color: orange;">`经济学（季刊）`</span>，2021，与[姜富伟](https://fuweijiang.weebly.com/), [唐国豪](https://jt.hnu.edu.cn/info/1167/6086.htm)合作
   - **摘要**：本文在 Loughran and MacDonald (2011) 词典的基础上通过人工筛选和 word2vec 算法扩充，构建了一个更新更全面的中 文金融情感词典。我们使用该情感词典计算我国财经媒体文本情绪指标，发现媒体文本情绪可以更准确地衡量我国股市投资者情绪的变化，对我国股票回报有显著的样本内和样本外预测能力。媒体文本情绪对一些重要的宏观经济指标也有显著的预测能力，具有重要的学术和实践应用价值。
+
+
+# Working Papers
+## English 
+---
+1. **Anomalies in the Age of Machine**, with [Fuwei Jiang](https://fuweijiang.weebly.com/), [Yiming Wang](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjrxx/327542.htm), [Guofu Zhou](https://apps.olin.wustl.edu/faculty/zhou/)
+2. **Measuring Real-time Economic Condition with Economic Narratives**
+3. **Factor Timing with Economic Narratives**, with [Fuwei Jiang](https://fuweijiang.weebly.com/), Yanan Fu, [Jun Tu](http://www.mysmu.edu/faculty/tujun/default.html)
+4. **Financial Regulator Communication and Financial Stability**, with [Fuwei Jiang](https://fuweijiang.weebly.com/), Yumin Liu
+
+## Chinese
+---
+5. **政策沟通、市场预期与金融稳定：来自证券监管的证据**，与 [姜富伟](https://fuweijiang.weebly.com/)，刘雨旻，洪永淼 合作
+6. **调预期、防风险：央行金融稳定沟通效果研究——基于文本分析的视角**，与 [姜富伟](https://fuweijiang.weebly.com/)，李梦如 合作
+7. **基于机器学习的实证资产定价研究进展**，与 李俊成 合作
+8. **金融监管政策的实体经济风险治理效应——基于资管新规的准自然实验** 与 [姜富伟](https://fuweijiang.weebly.com/)，李梦如 合作
