@@ -39,4 +39,5 @@ My research interest includes:
 
 
 # Contact Me
-My e-mail is lingchao.fin[at]gmail.com
+- E-mail: lingchao.fin[at]gmail.com
+- <span style="color: blue;">Research Assistant: If you are hardworking, have a good programming background (or are extremely curious and willing to learn), and are interested in using advanced machine learning and textual analysis techniques to solve financial problems, please get in touch with me!</span>
